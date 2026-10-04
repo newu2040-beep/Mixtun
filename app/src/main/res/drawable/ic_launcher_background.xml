@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Circular shape with smooth luminous border, zero rectangle edges -->
+    <path
+        android:fillColor="#060B1E"
+        android:pathData="M 54, 54 m -48, 0 a 48,48 0 1,0 96,0 a 48,48 0 1,0 -96,0" />
+    <path
+        android:strokeColor="#4000E5FF"
+        android:strokeWidth="1.5"
+        android:pathData="M 54, 54 m -48, 0 a 48,48 0 1,0 96,0 a 48,48 0 1,0 -96,0" />
+</vector>
